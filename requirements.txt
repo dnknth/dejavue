@@ -1,0 +1,7 @@
+dj-database-url
+Django
+django-filter
+django-debug-toolbar
+djangorestframework
+djangorestframework-simplejwt
+python-decouple
